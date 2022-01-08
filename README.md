@@ -10,4 +10,4 @@
 <hr>
 <h3>Step 2. Using the wires to connect the motor and the motor control board.</h3><a href="https://ibb.co/7YLPvpJ"><img src="https://i.ibb.co/0DvTq9j/DSC-5460.jpg" alt="DSC-5460" border="0"></a><br /><a href="https://ibb.co/DCC7yW8"><img src="https://i.ibb.co/3NN0qdM/DSC-5479.jpg" alt="DSC-5479" border="0"></a><a href="https://ibb.co/j4QjwYx"><img src="https://i.ibb.co/nkYK1yV/DSC-5480.jpg" alt="DSC-5480" border="0"></a>
 <hr>
-<h3>Step 3. Using Dupont line to connect the motor control board and the raspberry pi. And also plug the power wire into the motor control board.</h3>
+<h3>Step 3. Using Dupont line to connect the motor control board and the raspberry pi. And also plug the power wire into the motor control board.</h3><a href="https://ibb.co/5kv9hFj"><img src="https://i.ibb.co/ZSKJzmg/DSC-5461.jpg" alt="DSC-5461" border="0"></a><a href="https://ibb.co/4p2GNH2"><img src="https://i.ibb.co/RcNmHqN/DSC-5463.jpg" alt="DSC-5463" border="0"></a>
