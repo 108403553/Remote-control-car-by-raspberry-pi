@@ -16,4 +16,5 @@
 <h4>So far, the hardware part is finished.</h4>
 <hr>
 <br><h3><b>THE SOFTWARE</b></h3><br>
-<hr>
+<h3>Step 1. Download the raspberry pi OS. Go to their official website and download the linux edition.
+<a href="https://ibb.co/gRSfvk9"><img src="https://i.ibb.co/5RrSYb4/scrot1.png" alt="scrot1" border="0"></a><a href="https://ibb.co/6mxddws"><img src="https://i.ibb.co/2yQbbhK/scrot2.png" alt="scrot2" border="0"></a><a href="https://ibb.co/zQYFwJS"><img src="https://i.ibb.co/MZ4fL6R/scrot3.png" alt="scrot3" border="0"></a>
