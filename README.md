@@ -13,6 +13,5 @@
 <hr>
 <h3>Step 3. Using Dupont line to link the motor control board and the raspberry pi. And also plug the power wire into the motor control board.</h3><a href="https://ibb.co/5kv9hFj"><img src="https://i.ibb.co/ZSKJzmg/DSC-5461.jpg" alt="DSC-5461" border="0"></a><a href="https://ibb.co/4p2GNH2"><img src="https://i.ibb.co/RcNmHqN/DSC-5463.jpg" alt="DSC-5463" border="0"></a>
 <h3>Step 4. Install the camera module and fasten them on thebracket</h3><a href="https://ibb.co/4m8BjCD"><img src="https://i.ibb.co/qyNbRh4/DSC-5477.jpg" alt="DSC-5477" border="0"></a><br /><a href="https://ibb.co/wCj6Zsq"><img src="https://i.ibb.co/7VLyx4D/DSC-5478.jpg" alt="DSC-5478" border="0"></a>
-<hr>
-<h4>So far, the hardware part is finished. Next part is for the software</h4>
+<h4>So far, the hardware part is finished.</h4>
 <hr>
