@@ -1,3 +1,3 @@
 # Remote-control-car-by-raspberry-pi
 
-<font size="36"><b>Forword</b></font>
+<h2 dir=auto><b>Forword</b></h2>
