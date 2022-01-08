@@ -6,4 +6,6 @@
 <br><p>To reach the goal, we need to prepare these materials in advance:</p>
 <h4>Raspberry pi, Camera module, The car chassis with motor, Motor control board, Battery case, Bracket</h4>
 <hr>
-<h3>Step 1 assemble the car chassis and fix the battery case on it</h3><a href="https://ibb.co/X3DR7Kj"><img src="https://i.ibb.co/vQhn3TV/DSC-5455.jpg" alt="DSC-5455" border="0"></a>
+<h3>Step 1. assemble the car chassis and fix the battery case on it</h3><a href="https://ibb.co/X3DR7Kj"><img src="https://i.ibb.co/vQhn3TV/DSC-5455.jpg" alt="DSC-5455" border="0"></a><a target='_blank' href='https://whatsmyscreenresolution.com/'>what does screen resolution mean</a>
+<hr>
+<h3>Step 2. 
