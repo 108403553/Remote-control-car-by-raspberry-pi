@@ -12,14 +12,15 @@
 <h3>Step 2. Using the wires to connect the motor and the motor control board.</h3><a href="https://ibb.co/7YLPvpJ"><img src="https://i.ibb.co/0DvTq9j/DSC-5460.jpg" alt="DSC-5460" border="0"></a><br /><a href="https://ibb.co/DCC7yW8"><img src="https://i.ibb.co/3NN0qdM/DSC-5479.jpg" alt="DSC-5479" border="0"></a><a href="https://ibb.co/j4QjwYx"><img src="https://i.ibb.co/nkYK1yV/DSC-5480.jpg" alt="DSC-5480" border="0"></a>
 <hr>
 <h3>Step 3. Using Dupont line to link the motor control board and the raspberry pi. And also plug the power wire into the motor control board.</h3><a href="https://ibb.co/5kv9hFj"><img src="https://i.ibb.co/ZSKJzmg/DSC-5461.jpg" alt="DSC-5461" border="0"></a><a href="https://ibb.co/4p2GNH2"><img src="https://i.ibb.co/RcNmHqN/DSC-5463.jpg" alt="DSC-5463" border="0"></a>
+<hr>
 <h3>Step 4. Install the camera module and fasten them on thebracket</h3><a href="https://ibb.co/4m8BjCD"><img src="https://i.ibb.co/qyNbRh4/DSC-5477.jpg" alt="DSC-5477" border="0"></a><br /><a href="https://ibb.co/wCj6Zsq"><img src="https://i.ibb.co/7VLyx4D/DSC-5478.jpg" alt="DSC-5478" border="0"></a>
 <h4>So far, the hardware part is finished.</h4>
 <hr>
 <br><h3><b>THE SOFTWARE</b></h3><br>
-<h3>Step 1. Download the raspberry pi OS. Go to their official website and download the linux edition.
+<h3>Step 1. Download the raspberry pi OS. Go to their official website and download the linux edition.</h3>
 <br><a href="https://ibb.co/gRSfvk9"><img src="https://i.ibb.co/5RrSYb4/scrot1.png" alt="scrot1" border="0"></a><a href="https://ibb.co/6mxddws"><img src="https://i.ibb.co/2yQbbhK/scrot2.png" alt="scrot2" border="0"></a><a href="https://ibb.co/zQYFwJS"><img src="https://i.ibb.co/MZ4fL6R/scrot3.png" alt="scrot3" border="0"></a>
 <hr>
-<h3>Step 2. Set the ssh on, so that we can control the raspberry pi via VNC.
+<h3>Step 2. Set the ssh on, so that we can control the raspberry pi via VNC.</h3>
 <br><a href="https://ibb.co/GP97C4B"><img src="https://i.ibb.co/ZTSdcpt/MQ7LgQx.png" alt="MQ7LgQx" border="0"></a><a href="https://ibb.co/djz3r2X"><img src="https://i.ibb.co/n65Vbc4/L1n2jMT.png" alt="L1n2jMT" border="0"></a><a href="https://ibb.co/bRHsRhN"><img src="https://i.ibb.co/G3sW3wC/tJULIFF.png" alt="tJULIFF" border="0"></a><a href="https://ibb.co/v38W3pw"><img src="https://i.ibb.co/YcGScmR/codKHLi.png" alt="codKHLi" border="0"></a>
 <hr>
   <h3>Step 3. Set the camera option, letting raspberry pi can use it.</h3>
