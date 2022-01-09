@@ -52,3 +52,7 @@
 <a href="https://www.youtube.com/watch?v=b5S8O3g8hRk">remote control car moving sample</a>
 <br>
 <h3>Thanks for watching</h3>
+<br>
+<br>
+<h3>Reference:</h3>
+<a href="http://hophd.com/raspberry-pi-remote-car-web-interface/">http://hophd.com/raspberry-pi-remote-car-web-interface/</a>
