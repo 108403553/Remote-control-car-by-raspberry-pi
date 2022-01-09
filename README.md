@@ -35,4 +35,20 @@
 <hr>
 <h3>Step 6. We also need to change the html file, sothat we can control the car via the web.</h3>
 <a href="https://ibb.co/tsJqvCW"><img src="https://i.ibb.co/mqc92zM/2022-01-09-172546-1024x768-scrot.png" alt="2022-01-09-172546-1024x768-scrot" border="0"></a>
- 
+<hr>
+<h4>So far, the remote control car has been done</h4>
+<h3>Let's implement it</h3>
+<br>
+<h3>First we need to apply the app.py program.</h3>
+<a href="https://ibb.co/L8xFQ71"><img src="https://i.ibb.co/Vtg1H4T/2022-01-09-172647-1024x768-scrot.png" alt="2022-01-09-172647-1024x768-scrot" border="0"></a>
+<h3>Click the URL</h3>
+<a href="https://ibb.co/QHGjs1N"><img src="https://i.ibb.co/093VPdM/2022-01-09-174702-1024x768-scrot.png" alt="2022-01-09-174702-1024x768-scrot" border="0"></a>
+<h3>And we can see the streaming video</h3>
+<br>
+<h3>Below the scene is the control option</h3>
+<a href="https://ibb.co/28X9kmq"><img src="https://i.ibb.co/gvs2RHy/2022-01-09-174715-1024x768-scrot.png" alt="2022-01-09-174715-1024x768-scrot" border="0"></a>
+<br>
+<h3>Here is the sample</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b5S8O3g8hRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<h3>Thanks for watching</h3>
