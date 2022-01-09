@@ -56,3 +56,5 @@
 <br>
 <h3>Reference:</h3>
 <a href="http://hophd.com/raspberry-pi-remote-car-web-interface/">http://hophd.com/raspberry-pi-remote-car-web-interface/</a>
+<a href="https://atceiling.blogspot.com/2021/04/raspberry-pi-pico10l298n.html">https://atceiling.blogspot.com/2021/04/raspberry-pi-pico10l298n.html</a>
+<a href="https://blog.csdn.net/weixin_44575660/article/details/108427504">https://blog.csdn.net/weixin_44575660/article/details/108427504</a>
