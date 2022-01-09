@@ -23,5 +23,5 @@
 <br><a href="https://ibb.co/GP97C4B"><img src="https://i.ibb.co/ZTSdcpt/MQ7LgQx.png" alt="MQ7LgQx" border="0"></a><a href="https://ibb.co/djz3r2X"><img src="https://i.ibb.co/n65Vbc4/L1n2jMT.png" alt="L1n2jMT" border="0"></a><a href="https://ibb.co/bRHsRhN"><img src="https://i.ibb.co/G3sW3wC/tJULIFF.png" alt="tJULIFF" border="0"></a><a href="https://ibb.co/v38W3pw"><img src="https://i.ibb.co/YcGScmR/codKHLi.png" alt="codKHLi" border="0"></a>
 <hr>
 <h3>Step 3. Set the camera option, letting raspberry pi can use it.
-<a href="https://ibb.co/gRSfvk9"><img src="https://i.ibb.co/5RrSYb4/scrot1.png" alt="scrot1" border="0"></a><a href="https://ibb.co/svNRsCr"><img src="https://i.ibb.co/991gyhj/1-hh-BEv-X-wbjts2-XTn-Hj0zd-A.jpg" alt="1-hh-BEv-X-wbjts2-XTn-Hj0zd-A" border="0"></a><a href="https://ibb.co/9cdT6qS"><img src="https://i.ibb.co/cksF0NV/1-psh-Wp6r2-Xe8l-YKvl-U39ag.jpg" alt="1-psh-Wp6r2-Xe8l-YKvl-U39ag" border="0"></a>
+<a href="https://ibb.co/GP97C4B"><img src="https://i.ibb.co/ZTSdcpt/MQ7LgQx.png" alt="MQ7LgQx" border="0"></a><a href="https://ibb.co/svNRsCr"><img src="https://i.ibb.co/991gyhj/1-hh-BEv-X-wbjts2-XTn-Hj0zd-A.jpg" alt="1-hh-BEv-X-wbjts2-XTn-Hj0zd-A" border="0"></a><a href="https://ibb.co/9cdT6qS"><img src="https://i.ibb.co/cksF0NV/1-psh-Wp6r2-Xe8l-YKvl-U39ag.jpg" alt="1-psh-Wp6r2-Xe8l-YKvl-U39ag" border="0"></a>
   
