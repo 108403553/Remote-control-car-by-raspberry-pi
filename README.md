@@ -24,8 +24,14 @@
 <hr>
   <h3>Step 3. Set the camera option, letting raspberry pi can use it.</h3>
 <a href="https://ibb.co/GP97C4B"><img src="https://i.ibb.co/ZTSdcpt/MQ7LgQx.png" alt="MQ7LgQx" border="0"></a><a href="https://ibb.co/svNRsCr"><img src="https://i.ibb.co/991gyhj/1-hh-BEv-X-wbjts2-XTn-Hj0zd-A.jpg" alt="1-hh-BEv-X-wbjts2-XTn-Hj0zd-A" border="0"></a><a href="https://ibb.co/9cdT6qS"><img src="https://i.ibb.co/cksF0NV/1-psh-Wp6r2-Xe8l-YKvl-U39ag.jpg" alt="1-psh-Wp6r2-Xe8l-YKvl-U39ag" border="0"></a>
+<hr>
 <h3>Step 4. Download flask kit. And copy it to the home directory</h3>
 <br><a href="https://imgbb.com/"><img src="https://i.ibb.co/qRk5yWn/flask-download.jpg" alt="flask-download" border="0"></a>
 <a href="https://ibb.co/L6VXzmW"><img src="https://i.ibb.co/K7Tpjdk/FLASK-copy.jpg" alt="FLASK-copy" border="0"></a>
+<hr>
 <h3>Step 5. Select the flask-video-streaming folder and open the app.py with python compiler, then modify the program as below:</h3>
 <a href="https://ibb.co/2sxFFJM"><img src="https://i.ibb.co/JyVccZp/2022-01-09-172207-1024x768-scrot.png" alt="2022-01-09-172207-1024x768-scrot" border="0"></a><a href="https://ibb.co/v14GJTz"><img src="https://i.ibb.co/4WRGjXN/2022-01-09-172501-1024x768-scrot.png" alt="2022-01-09-172501-1024x768-scrot" border="0"></a><a href="https://ibb.co/56tzqmm"><img src="https://i.ibb.co/ZVtwy55/2022-01-09-172513-1024x768-scrot.png" alt="2022-01-09-172513-1024x768-scrot" border="0"></a><a href="https://ibb.co/JtrC3jS"><img src="https://i.ibb.co/ZXcN2zb/2022-01-09-172515-1024x768-scrot.png" alt="2022-01-09-172515-1024x768-scrot" border="0"></a>
+<hr>
+<h3>Step 6. We also need to change the html file, sothat we can control the car via the web.</h3>
+<a href="https://ibb.co/tsJqvCW"><img src="https://i.ibb.co/mqc92zM/2022-01-09-172546-1024x768-scrot.png" alt="2022-01-09-172546-1024x768-scrot" border="0"></a>
+ 
