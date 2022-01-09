@@ -18,3 +18,10 @@
 <br><h3><b>THE SOFTWARE</b></h3><br>
 <h3>Step 1. Download the raspberry pi OS. Go to their official website and download the linux edition.
 <a href="https://ibb.co/gRSfvk9"><img src="https://i.ibb.co/5RrSYb4/scrot1.png" alt="scrot1" border="0"></a><a href="https://ibb.co/6mxddws"><img src="https://i.ibb.co/2yQbbhK/scrot2.png" alt="scrot2" border="0"></a><a href="https://ibb.co/zQYFwJS"><img src="https://i.ibb.co/MZ4fL6R/scrot3.png" alt="scrot3" border="0"></a>
+<hr>
+<h3>Step 2. Set the ssh on, so that we can control the raspberry pi via VNC.
+<a href="https://ibb.co/GP97C4B"><img src="https://i.ibb.co/ZTSdcpt/MQ7LgQx.png" alt="MQ7LgQx" border="0"></a><a href="https://ibb.co/djz3r2X"><img src="https://i.ibb.co/n65Vbc4/L1n2jMT.png" alt="L1n2jMT" border="0"></a><a href="https://ibb.co/bRHsRhN"><img src="https://i.ibb.co/G3sW3wC/tJULIFF.png" alt="tJULIFF" border="0"></a><a href="https://ibb.co/v38W3pw"><img src="https://i.ibb.co/YcGScmR/codKHLi.png" alt="codKHLi" border="0"></a>
+<hr>
+<h3>Step 3. Set the camera option, letting raspberry pi can use it.
+
+  
